@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/NM-TAFE/dip-web-app-my-react-app-manual/issues"
   },
-  "homepage": "https://<your-username>.github.io/<your-repo-name>",
+  "homepage": "https://nm-tafe.github.io/dip-web-app-my-react-app-manual/",
   "description": "",
   "dependencies": {
     "gh-pages": "^6.3.0",
