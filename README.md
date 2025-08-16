@@ -44,7 +44,7 @@ npm install --save-dev webpack webpack-cli webpack-dev-server babel-loader @babe
 
 ```
 
-**Note:** now we add you .gitignore!
+**Note:** now we add your .gitignore!
 
 #### **Create Webpack Configuration**
 
